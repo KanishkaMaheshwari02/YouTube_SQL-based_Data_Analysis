@@ -1,4 +1,4 @@
-# YouTube_SQL_based_Data_Analysis
+# YouTube_SQL-based_Data_Analysis
 Implemented sophisticated SQL queries for in-depth analysis and strategic decision-making.
 Features both observations and strategic recommendations.
 
